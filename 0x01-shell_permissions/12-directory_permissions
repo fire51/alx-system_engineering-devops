@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir -m 751 dir_alx-system_engineering-devops
-
+mkdir -m 751 dir_0x01-shell_permissions
